@@ -1,0 +1,82 @@
+*{
+margin: 0;
+}
+body{
+font-family: Century Gothic, sans-serif, Arial;
+font-size: 15px;
+}
+#corpo{
+height: 616px;
+width: 996px;
+margin: auto;
+margin-top: 140px;
+}
+#col1{
+width: 10%;
+}
+#col2{
+width: 30%;
+}
+#col3{
+width: 60%;
+}
+iframe{
+height: 215px;
+}
+#B1{
+background-color:#006;
+border-radius:3px;
+display: flex;
+align-items: center;
+justify-content: center;
+cursor:pointer;
+color:#ffffff;
+font-family:Arial;
+font-size:17px;
+text-decoration:none;
+height: 30%;
+width: 100%;
+text-align: center;
+}
+#B1:hover{
+background-color:#004;
+}
+#B2{
+background-color:#006;
+border-radius:3px;
+display: flex;
+align-items: center;
+justify-content: center;
+cursor:pointer;
+color:#ffffff;
+font-family:Arial;
+font-size:17px;
+text-decoration:none;
+height: 30%;
+width: 100%;
+text-align: center;
+}
+#B2:hover{
+background-color:#004;
+}
+#B3{
+background-color:#006;
+border-radius:3px;
+display: flex;
+align-items: center;
+justify-content: center;
+cursor:pointer;
+color:#ffffff;
+font-family:Arial;
+font-size:17px;
+text-decoration:none;
+height: 30%;
+width: 100%;
+text-align: center;
+}
+#B3:hover{
+background-color:#004;
+}
+#banner{
+width: 996px;
+}
